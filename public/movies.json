@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Movie 1",
+        "rating": "8.5",
+        "year": "2020",
+        "plot": "Plot summary for Movie 1."
+    },
+    {
+        "title": "Movie 2",
+        "rating": "7.9",
+        "year": "2019",
+        "plot": "Plot summary for Movie 2."
+    },
+    {
+        "title": "Movie 3",
+        "rating": "9.0",
+        "year": "2018",
+        "plot": "Plot summary for Movie 3."
+    },
+    {
+        "title": "Movie 4",
+        "rating": "8.2",
+        "year": "2017",
+        "plot": "Plot summary for Movie 4."
+    },
+    {
+        "title": "Movie 5",
+        "rating": "7.6",
+        "year": "2016",
+        "plot": "Plot summary for Movie 5."
+    },
+    {
+        "title": "Movie 6",
+        "rating": "8.8",
+        "year": "2015",
+        "plot": "Plot summary for Movie 6."
+    },
+    {
+        "title": "Movie 7",
+        "rating": "7.5",
+        "year": "2014",
+        "plot": "Plot summary for Movie 7."
+    },
+    {
+        "title": "Movie 8",
+        "rating": "8.4",
+        "year": "2013",
+        "plot": "Plot summary for Movie 8."
+    },
+    {
+        "title": "Movie 9",
+        "rating": "8.1",
+        "year": "2012",
+        "plot": "Plot summary for Movie 9."
+    },
+    {
+        "title": "Movie 10",
+        "rating": "7.7",
+        "year": "2011",
+        "plot": "Plot summary for Movie 10."
+    },
+    {
+        "title": "Movie 11",
+        "rating": "9.2",
+        "year": "2010",
+        "plot": "Plot summary for Movie 11."
+    },
+    {
+        "title": "Movie 12",
+        "rating": "7.8",
+        "year": "2009",
+        "plot": "Plot summary for Movie 12."
+    },
+    {
+        "title": "Movie 13",
+        "rating": "8.9",
+        "year": "2008",
+        "plot": "Plot summary for Movie 13."
+    },
+    {
+        "title": "Movie 14",
+        "rating": "8.0",
+        "year": "2007",
+        "plot": "Plot summary for Movie 14."
+    },
+    {
+        "title": "Movie 15",
+        "rating": "7.4",
+        "year": "2006",
+        "plot": "Plot summary for Movie 15."
+    },
+    {
+        "title": "Movie 16",
+        "rating": "8.7",
+        "year": "2005",
+        "plot": "Plot summary for Movie 16."
+    },
+    {
+        "title": "Movie 17",
+        "rating": "7.2",
+        "year": "2004",
+        "plot": "Plot summary for Movie 17."
+    },
+    {
+        "title": "Movie 18",
+        "rating": "8.3",
+        "year": "2003",
+        "plot": "Plot summary for Movie 18."
+    },
+    {
+        "title": "Movie 19",
+        "rating": "9.1",
+        "year": "2002",
+        "plot": "Plot summary for Movie 19."
+    },
+    {
+        "title": "Movie 20",
+        "rating": "7.0",
+        "year": "2001",
+        "plot": "Plot summary for Movie 20."
+    }
+]
