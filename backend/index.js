@@ -25,12 +25,11 @@ app.post("/create", async (req, res) => {
     const username = newUser[0]
     const email = newUser[1]
     const password = newUser[2]
-    const role = newUser[3]
     
     try {
     
         const newAccount = await pool.query(
-            `INSERT INTO accounts (username, password, email, role) VALUES('${username}', '${password}', '${email}', '${role}') RETURNING *`
+            `INSERT INTO accounts (username, password, email, role) VALUES('${username}', '${password}', '${email}') RETURNING *`
         )
         res.json(newAccount)
     } catch (err) {

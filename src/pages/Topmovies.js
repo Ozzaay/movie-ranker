@@ -19,7 +19,7 @@ const TopMovies = () => {
 
     return (
         <div>
-            <h1>Top 100 Movies on IMDb</h1>
+            <h1>Movies or some shit idk</h1>
             <ul>
                 {movies.map((movie, index) => (
                     <li key={index}>
