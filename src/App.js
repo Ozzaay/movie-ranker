@@ -1,5 +1,5 @@
 import React from 'react';
-import TopMovies from './pages/Topmovies';
+import TopMovies from './pages/movies';
 import Navbar from './pages/Links';
 
 function App() {
@@ -7,7 +7,6 @@ function App() {
         <>
         <div className="App">
         <Navbar />
-        <h1 className="fancy-header">Overview</h1>
         <TopMovies />
         </div>
     </>

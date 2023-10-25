@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-
+import './movies.css'
 const TopMovies = () => {
     const [movies, setMovies] = useState([]);
 
@@ -19,19 +19,21 @@ const TopMovies = () => {
 
     return (
         <div>
-            <h1>Movies or some shit idk</h1>
-            <ul>
+            <h1>Movie ranker</h1>
+            <div>
                 {movies.map((movie, index) => (
-                    <li key={index}>
+                    <section key={index}>
                         <h2>{movie.title}</h2>
                         <p>Rating: {movie.rating}</p>
                         <p>Year: {movie.year}</p>
                         <p>Plot: {movie.plot}</p>
-                    </li>
+                    </section>
                 ))}
-            </ul>
+            </div>
         </div>
     );
 };
+
+
 
 export default TopMovies;

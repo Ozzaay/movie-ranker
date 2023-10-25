@@ -46,6 +46,10 @@ const Login = () => {
     event.preventDefault();
     setPassword(event.target.value);
   };
+  const signup = async (event) => {
+    event.preventDefault();
+    navigate("/create");
+  };
 
   return (    
         <form className="login-form">
@@ -54,6 +58,9 @@ const Login = () => {
           <input onChange={handlePassword} placeholder="Password" type="password"></input>
           <button onClick={handleLogin} type="submit">
             Submit 
+          </button>
+          <button onClick={signup} type="submit">
+            Sign Up 
           </button>
         </form>
       // </div>

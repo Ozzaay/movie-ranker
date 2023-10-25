@@ -1,122 +1,122 @@
 [
     {
-        "title": "Movie 1",
-        "rating": "8.5",
-        "year": "2020",
-        "plot": "Plot summary for Movie 1."
+        "title": "Shawshanks redemption",
+        "rating": "9.3",
+        "year": "1994",
+        "plot": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion."
     },
     {
-        "title": "Movie 2",
-        "rating": "7.9",
-        "year": "2019",
-        "plot": "Plot summary for Movie 2."
-    },
-    {
-        "title": "Movie 3",
-        "rating": "9.0",
-        "year": "2018",
-        "plot": "Plot summary for Movie 3."
-    },
-    {
-        "title": "Movie 4",
-        "rating": "8.2",
-        "year": "2017",
-        "plot": "Plot summary for Movie 4."
-    },
-    {
-        "title": "Movie 5",
-        "rating": "7.6",
-        "year": "2016",
-        "plot": "Plot summary for Movie 5."
-    },
-    {
-        "title": "Movie 6",
-        "rating": "8.8",
-        "year": "2015",
-        "plot": "Plot summary for Movie 6."
-    },
-    {
-        "title": "Movie 7",
-        "rating": "7.5",
-        "year": "2014",
-        "plot": "Plot summary for Movie 7."
-    },
-    {
-        "title": "Movie 8",
-        "rating": "8.4",
-        "year": "2013",
-        "plot": "Plot summary for Movie 8."
-    },
-    {
-        "title": "Movie 9",
-        "rating": "8.1",
-        "year": "2012",
-        "plot": "Plot summary for Movie 9."
-    },
-    {
-        "title": "Movie 10",
-        "rating": "7.7",
-        "year": "2011",
-        "plot": "Plot summary for Movie 10."
-    },
-    {
-        "title": "Movie 11",
+        "title": "The Godfather",
         "rating": "9.2",
+        "year": "1972",
+        "plot": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger."
+    },
+    {
+        "title": "The Godfather Part II",
+        "rating": "9.0",
+        "year": "1974",
+        "plot": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate."
+    },
+    {
+        "title": "The Godfather Part III",
+        "rating": "7.6",
+        "year": "1990",
+        "plot": "Follows Michael Corleone, now in his 60s, as he seeks to free his family from crime and find a suitable successor to his empire."
+    },
+    {
+        "title": "Inception",
+        "rating": "8.8",
         "year": "2010",
-        "plot": "Plot summary for Movie 11."
+        "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster."
     },
     {
-        "title": "Movie 12",
-        "rating": "7.8",
-        "year": "2009",
-        "plot": "Plot summary for Movie 12."
-    },
-    {
-        "title": "Movie 13",
-        "rating": "8.9",
-        "year": "2008",
-        "plot": "Plot summary for Movie 13."
-    },
-    {
-        "title": "Movie 14",
-        "rating": "8.0",
-        "year": "2007",
-        "plot": "Plot summary for Movie 14."
-    },
-    {
-        "title": "Movie 15",
-        "rating": "7.4",
-        "year": "2006",
-        "plot": "Plot summary for Movie 15."
-    },
-    {
-        "title": "Movie 16",
+        "title": "The Matrix",
         "rating": "8.7",
-        "year": "2005",
-        "plot": "Plot summary for Movie 16."
+        "year": "1999",
+        "plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence."
     },
     {
-        "title": "Movie 17",
-        "rating": "7.2",
-        "year": "2004",
-        "plot": "Plot summary for Movie 17."
+        "title": "Se7en",
+        "rating": "8.6",
+        "year": "1995",
+        "plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives."
     },
     {
-        "title": "Movie 18",
+        "title": "The Dark Knight",
+        "rating": "9.0",
+        "year": "2008",
+        "plot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+    },
+    {
+        "title": "Fight Club",
+        "rating": "8.8",
+        "year": "1999",
+        "plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
+    },
+    {
+        "title": "Goodfellas",
+        "rating": "8.7",
+        "year": "1990",
+        "plot": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito."
+    },
+    {
+        "title": "Schindler's List",
+        "rating": "9.0",
+        "year": "1993",
+        "plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
+    },
+    {
+        "title": "Forrest Gump",
+        "rating": "8.8",
+        "year": "1994",
+        "plot": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart."
+    },
+    {
+        "title": "Pulp Fiction",
+        "rating": "8.9",
+        "year": "1994",
+        "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "rating": "8.7",
+        "year": "1980",
+        "plot": "After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett."
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
         "rating": "8.3",
-        "year": "2003",
-        "plot": "Plot summary for Movie 18."
+        "year": "1983",
+        "plot": "After rescuing Han Solo from Jabba the Hutt, the Rebels attempt to destroy the second Death Star, while Luke struggles to help Darth Vader back from the dark side."
     },
     {
-        "title": "Movie 19",
-        "rating": "9.1",
-        "year": "2002",
-        "plot": "Plot summary for Movie 19."
+        "title": "Star Wars",
+        "rating": "8.6",
+        "year": "1977",
+        "plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
     },
     {
-        "title": "Movie 20",
-        "rating": "7.0",
+        "title": "Interstellar",
+        "rating": "8.7",
+        "year": "2014",
+        "plot": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans."
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "rating": "8.8",
         "year": "2001",
-        "plot": "Plot summary for Movie 20."
+        "plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron."
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "rating": "8.8",
+        "year": "2002",
+        "plot": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard."
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "rating": "9.0",
+        "year": "2003",
+        "plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
     }
 ]
