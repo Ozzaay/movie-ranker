@@ -1,39 +1,34 @@
 import React, { useState, useEffect } from 'react';
-import './movies.css'
-const TopMovies = () => {
-    const [movies, setMovies] = useState([]);
 
-    useEffect(() => {
-        const fetchTopMovies = async () => {
-            try {
-                const response = await fetch('/movies.json');
-                const data = await response.json();
-                setMovies(data);
-            } catch (error) {
-                console.error('Error fetching data:', error);
-            }
-        };
+function TopMovies() {
+    const [movies, setData] = useState([]);
+    const fetchmovies = async () => {
+        const response = await fetch("http://localhost:5000/movies", {
+          method: "GET",
+          headers: {
+            "Content-Type": "application/json",
+          },
 
-        fetchTopMovies();
-    }, []);
+          });
+          const jsonData = await response.json();
+        setData(jsonData.rows);
 
-    return (
-        <div>
-            <h1>Movie ranker</h1>
-            <div>
-                {movies.map((movie, index) => (
-                    <section key={index}>
-                        <h2>{movie.title}</h2>
-                        <p>Rating: {movie.rating}</p>
-                        <p>Year: {movie.year}</p>
-                        <p>Plot: {movie.plot}</p>
-                    </section>
-                ))}
+    }
+    useEffect(() => {fetchmovies()}, [])
+  return (
+    <div>
+        
+        {movies.map((movie) => (
+            <div key={movie.id}>
+                <h1>{movie.title}</h1>
+                <p>{movie.rating}</p>
+                <p>{movie.year}</p>
+                <p>{movie.plot}</p>
             </div>
-        </div>
-    );
-};
-
-
+        ))}
+        
+    </div>
+  );
+}
 
 export default TopMovies;

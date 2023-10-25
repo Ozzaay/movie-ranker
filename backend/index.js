@@ -48,10 +48,16 @@ app.post("/login", async (req, res) => {
     res.json(account)
 })
 
-app.get("/movie", async (req, res) => {
-    const allmovies = await pool.query("SELECT * FROM movies ORDER BY id DESC")
-    res.json(allmovies.rows)
+// app.get("/movie", async (req, res) => {
+//     const allmovies = await pool.query("SELECT * FROM movies ORDER BY id DESC")
+//     res.json(allmovies)
+// })
+
+app.get("/movies", async (req, res) => {
+    const allAccounts = await pool.query("SELECT * FROM movies")
+    res.json(allAccounts)
 })
+
 
 app.listen(port, () => {
     console.log("server started on port:", port)
